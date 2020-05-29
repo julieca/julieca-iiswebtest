@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/julieca-iiswebtest/static/css/main.68b590f0.chunk.css",
+    "main.js": "/julieca-iiswebtest/static/js/main.80eed157.chunk.js",
+    "main.js.map": "/julieca-iiswebtest/static/js/main.80eed157.chunk.js.map",
+    "runtime-main.js": "/julieca-iiswebtest/static/js/runtime-main.d972a0d8.js",
+    "runtime-main.js.map": "/julieca-iiswebtest/static/js/runtime-main.d972a0d8.js.map",
+    "static/js/2.cbdb5fdd.chunk.js": "/julieca-iiswebtest/static/js/2.cbdb5fdd.chunk.js",
+    "static/js/2.cbdb5fdd.chunk.js.map": "/julieca-iiswebtest/static/js/2.cbdb5fdd.chunk.js.map",
+    "index.html": "/julieca-iiswebtest/index.html",
+    "precache-manifest.fdc8563e138a7e3397b52f6414153c85.js": "/julieca-iiswebtest/precache-manifest.fdc8563e138a7e3397b52f6414153c85.js",
+    "service-worker.js": "/julieca-iiswebtest/service-worker.js",
+    "static/css/main.68b590f0.chunk.css.map": "/julieca-iiswebtest/static/css/main.68b590f0.chunk.css.map",
+    "static/js/2.cbdb5fdd.chunk.js.LICENSE.txt": "/julieca-iiswebtest/static/js/2.cbdb5fdd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d972a0d8.js",
+    "static/js/2.cbdb5fdd.chunk.js",
+    "static/css/main.68b590f0.chunk.css",
+    "static/js/main.80eed157.chunk.js"
+  ]
+}
